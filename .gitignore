@@ -3,10 +3,7 @@
 # dependencies
 /client/node_modules
 /server/node_modules
-/client/.pnp
-/server/.pnp
-/client/.pnp.js
-/server/.pnp.js
+
 
 # testing
 /client/coverage
